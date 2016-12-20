@@ -33,10 +33,11 @@
 59965419.zip
 59965447.zip
 59965863.zip
+9MH7l9VYAb.zip
 index.html
 JurassicPark.zip
 list.txt
 README.md
 rename.sh
 
-This is a directory listing of the root directory of the map conversion download website. Copy the file name and paste it in the URL bar after deleting "list.txt". The URL of the latest converted map ZIP file is http://imagicalcorp.github.io/MapConversion/59970315.zip
+This is a directory listing of the root directory of the map conversion download website. Copy the file name and paste it in the URL bar after deleting "list.txt". The URL of the latest converted map ZIP file is http://imagicalcorp.github.io/MapConversion/59970810.zip
