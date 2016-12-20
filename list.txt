@@ -17,8 +17,9 @@
 135319233.zip
 135319713.zip
 135320104.zip
+59960946.zip
 index.html
 list.txt
 README.md
 
-This is a directory listing of the root directory of the map conversion download website. Copy the file name and paste it in the URL bar after deleting "list.txt". The URL of the latest converted map ZIP file is http://imagicalcorp.github.io/MapConversion/135320104.zip
+This is a directory listing of the root directory of the map conversion download website. Copy the file name and paste it in the URL bar after deleting "list.txt". The URL of the latest converted map ZIP file is http://imagicalcorp.github.io/MapConversion/59960946.zip
