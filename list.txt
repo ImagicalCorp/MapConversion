@@ -47,6 +47,7 @@ KK2rKFwMh3.zip
 list.txt
 MZNUOfywiU.zip
 pqYodZxgBT.zip
+QQ2msWbgLH.zip
 README.md
 rename.sh
 RjOBZ4z5Qp.zip
@@ -54,4 +55,4 @@ sfnWIDr9Dp.zip
 uY0VLcIPz8.zip
 y5i4kuyozk.zip
 
-This is a directory listing of the root directory of the map conversion download website. Copy the file name and paste it in the URL bar after deleting "list.txt". The URL of the latest converted map ZIP file is http://imagicalcorp.github.io/MapConversion/60543205.zip
+This is a directory listing of the root directory of the map conversion download website. Copy the file name and paste it in the URL bar after deleting "list.txt".
